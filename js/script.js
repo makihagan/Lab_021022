@@ -1,8 +1,6 @@
 /*
-Change made??
-I don't know...
-Let's try one more time...
-OK... I don't understand...
+Where's my file on git???
+Hello???
 */
 
 let btn = document.querySelector('button');
